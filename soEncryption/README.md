@@ -1,2 +1,0 @@
-# soEncryption
-so encryption
